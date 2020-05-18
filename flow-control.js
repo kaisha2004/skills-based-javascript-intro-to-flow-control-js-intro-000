@@ -3,6 +3,8 @@ function basicTeenager(age) {
     return ('You are a teenager!')
 
 }
+  return('You are not a teenager')
+}
 console.log(basicTeenager(13));
 
 function teenager(age) {
