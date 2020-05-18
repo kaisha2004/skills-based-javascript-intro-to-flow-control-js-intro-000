@@ -3,7 +3,7 @@ function basicTeenager(age) {
     return ('You are a teenager!')
 
 }
-let age = 16
+basicTeenager(16);
 
 function teenager(age) {
   if (13 <= age <= 19) {
