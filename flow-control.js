@@ -1,9 +1,9 @@
 function basicTeenager(age) {
   if (age === 13) {
-    return You are a teenager!
-
+    return "You are a teenager!"
+    
 }
-console.log(basicTeenager(13));
+return (basicTeenager(13));
 
 function teenager(age) {
   if (13 <= age <= 19) {
