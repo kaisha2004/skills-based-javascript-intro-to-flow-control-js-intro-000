@@ -3,7 +3,7 @@ function basicTeenager(age) {
     return ("You are a teenager!");
 }
 }
-console.log(age(13));
+age(13);
 
 function teenager(age) {
   if (13 <= age <= 19) {
