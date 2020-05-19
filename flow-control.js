@@ -56,3 +56,4 @@ function switchAge(age) {
     return "You are not a teenager"
   }
 }
+switchAge(25)
